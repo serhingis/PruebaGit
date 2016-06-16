@@ -7,6 +7,8 @@ public class Persona {
 		System.out.println("Persona 1");
 		System.out.println("Persona 2");
 		
+		System.out.println("Persona 3");
+		
 	}
 	
 }
