@@ -11,6 +11,8 @@ public class Persona {
 		
 		System.out.println("Persona 4");
 		
+		System.out.println("Persona cargada en GitHub");
+		
 	}
 	
 }
