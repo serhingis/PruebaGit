@@ -9,6 +9,8 @@ public class Persona {
 		
 		System.out.println("Persona 3");
 		
+		System.out.println("Persona 4");
+		
 	}
 	
 }
